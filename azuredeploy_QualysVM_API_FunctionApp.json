@@ -180,7 +180,7 @@
                           "apiPassword": "[parameters('APIPassword')]",
                           "uri": "[parameters('Uri')]",
                           "timeInterval": "[parameters('TimeInterval')]",
-                          "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/happy-jo/qualys/blob/master/AzureFunctionQualysVM.zip?raw=true"
+                          "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/happy-jo/qualys/blob/master/Payload.zip?raw=true"
                                    } 
                   }
               ]
